@@ -23,7 +23,7 @@ const bountySchema = new mongoose.Schema({
     max: 1000000
   },
   ship: String,
-  hunters: [huntSchema],
+  hunters: [hunterSchema],
   captured: {
     type: Boolean,
     default: false
