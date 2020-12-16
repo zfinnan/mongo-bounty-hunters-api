@@ -1,0 +1,17 @@
+format for postman 
+
+{
+  "name": "Yosemite Sam",
+  "wantedFor": "Rootin & tootin",
+  "client": "Walt Disney",
+  "reward": 1000,
+  "ship": "good ship lollipop",
+  "hunters": [
+    {
+      "name": "Bugs Bunny",
+      "origin": "Earth"
+    }
+  ],
+  "captured": false,
+  "lastSeen": "1982"
+}
